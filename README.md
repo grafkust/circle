@@ -7,7 +7,7 @@
 3. Активируем окружение 
    - Windows - `venv\Scripts\activate`
    - Linux/macOS - `source venv/bin/activate`
-4. Устанавливаем необходимое окружение `pip install -r requirements.txt`
+4. Устанавливаем зависимости `pip install -r requirements.txt`
 5. Запускаем основной файл `python src\main\python\Application.py`
 
 p.s. Приложение разрабатывалось на Python 3.13.2
